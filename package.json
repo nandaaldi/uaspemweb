@@ -1,0 +1,24 @@
+{
+  "name": "uaspemweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandaaldi/uaspemweb.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "nanda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandaaldi/uaspemweb/issues"
+  },
+  "homepage": "https://github.com/nandaaldi/uaspemweb#readme"
+}
